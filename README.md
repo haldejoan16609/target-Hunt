@@ -1,4 +1,4 @@
-# target-HuntTarget Hunt is a fast-paced real-time multiplayer mini-game designed for 2–8 players. Each player joins the same room using a unique room code and plays from their own device.
+Target Hunt is a fast-paced real-time multiplayer mini-game designed for 2–8 players. Each player joins the same room using a unique room code and plays from their own device.
 
 Players must quickly identify and tap the correct target from a busy game board. As the rounds progress, the targets become harder to find and special Chaos challenges are introduced.
 
